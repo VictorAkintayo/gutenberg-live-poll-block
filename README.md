@@ -92,28 +92,51 @@ Animated transitions from voting to results view
 🏗️ File Structure
 gutenberg-live-poll-block/
 │
+
 ├── gutenberg-live-poll-block.php
+
 ├── readme.txt
+
 ├── includes/
+
 │   ├── class-glp-plugin.php
+
 │   ├── class-glp-install.php
+
 │   ├── class-glp-rest-controller.php
+
 │   ├── class-glp-vote-storage.php
+
 │   └── class-glp-block-registration.php
+
 │
+
 ├── src/
+
 │   ├── index.js
+
 │   ├── edit.js
+
 │   ├── save.js
+
 │   └── frontend.js
+
 │
+
 ├── build/
+
 │   ├── index.js
+
 │   ├── index.asset.php
+
 │   └── frontend.js
+
 │
+
 ├── package.json
+
 ├── webpack.config.js
+
 └── README.md
 
 # 📦 Installation
